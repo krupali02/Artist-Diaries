@@ -1,0 +1,130 @@
+html {
+    background-color:rgb(236, 217, 198);
+}
+
+#ok {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 30px;
+}
+    
+.links {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.8cm;
+   /* position: absolute;
+    margin-top: 4px;
+   margin-left: 7.5%;*/
+    
+}
+
+.bu {
+   font-size: 13.8px;
+   margin-right: 32px;
+   background-color:rgb(236, 217, 198) ;
+   border: none;
+   font-family: "Times New Roman", Times, serif;
+}
+
+.intro {
+    margin-top: 2cm;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+.container {
+   background:rgb(236, 217, 198);
+   align-content: center;
+}
+
+.parallex {
+    background: url('img/loe.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 220px;
+    width: 28.5cm;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+
+.info {
+    font-size: 55px;
+    text-align: center;
+    margin-top: 18px;
+   /*padding-top: 12px;*/
+    color: white;
+    font-family: 'Alatsi';
+    opacity: 0.8;
+}
+
+
+.text {
+   font-size: 18px;
+   margin-left: 2.4cm;
+   margin-right: 2.4cm;
+
+}
+
+#jc {
+    background: url('img/jc.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 220px;
+    width: 28cm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vv {
+    background: url('img/vv.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 220px;
+    width: 28cm;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#pa {
+    background: url('img/pi.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 220px;
+    width: 28cm;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+#re {
+    background: url('img/ri.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 220px;
+    width: 28cm;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+#wa {
+    background: url('img/wa.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 220px;
+    width: 28cm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imageOfArtist {
+    width: 350px; 
+    float: left; 
+    margin-left: 1.8cm;
+    padding: 20px;
+}
+
+
